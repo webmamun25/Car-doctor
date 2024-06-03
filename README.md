@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 # Deployment Link:https://aquamarine-klepon-d98778.netlify.app/
 
--It included a lot of technological tools such as :tailwind,react,firebase 
+- It included a lot of technological tools such as :tailwind,react,firebase 
